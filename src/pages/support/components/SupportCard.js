@@ -1,4 +1,4 @@
-import {  Card, Icon } from '@chakra-ui/react';
+import {  Card } from '@chakra-ui/react';
 import React from 'react';
 import { Flex, Stack, } from '@chakra-ui/react';
 import { IoMdMail } from 'react-icons/io';

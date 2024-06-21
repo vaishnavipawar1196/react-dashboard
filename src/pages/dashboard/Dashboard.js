@@ -24,7 +24,7 @@ const Dashboard = () => {
           </GridItem>
           <GridItem>
             <InfoCard 
-              imgUrl='./Visual1.png'
+              imgUrl='images/Visual1.png'
               text='Learn more about Loans – Keep your Bitcoin, access it’s value without selling it.'
               tagText='Loans'
               inverted={false}
@@ -32,7 +32,7 @@ const Dashboard = () => {
           </GridItem>
           <GridItem>
             <InfoCard 
-              imgUrl='./Visual.png'
+              imgUrl='images/Visual.png'
               text='Learn more about our real estate, mortgage, and corporate account services.'
               tagText='Contact'
               inverted={true}

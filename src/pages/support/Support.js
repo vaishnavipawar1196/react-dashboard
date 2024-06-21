@@ -18,7 +18,7 @@ const Support = () => {
 
             <Stack w={{base:'100%',lg:'60%'}}>
               <InfoCard 
-                imgUrl='./Visual.png'
+                imgUrl='images/Visual.png'
                 text='Live chat now.'
                 tagText='Contact'
                 inverted={true}

@@ -40,7 +40,7 @@ const PriceSection = () => {
             <TabPanels>
                 <TabPanel>
                     <HStack>
-                        <Image w='100%' src='./Graph.png' mt='14' />
+                        <Image w='100%' src='images/Graph.png' mt='14' />
                     </HStack>
                     <HStack justify='space-between'>
                         {timestamp.map((time) => (
